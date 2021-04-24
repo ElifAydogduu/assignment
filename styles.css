@@ -1,0 +1,46 @@
+label{
+    color: rgb(72, 72, 146);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px 0px 0px 8px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif
+    text-align: left;
+    padding: 0px 0px 0px 70px;
+    color: #abcdef;
+}
+
+.inputClass {
+    border: 8px inset #abcdef;
+    width: 15%;
+    margin: 8px;
+    height: 22px;
+}
+
+.buttonClass {
+    background-color: cornsilk;
+    border: 2px solid #abcdef ;
+    color: rgb(7, 2, 2);
+}
+
+.checkboxClass {
+    margin: 12px;
+    width: 1%;
+    padding: 0px 0px 0px 3px;
+}
+
+p.paragraphClass {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(82, 79, 78);;
+
+}
+
+h2 {
+    color:rgb(114, 112, 111) ;
+    padding: 0px 0px 0px 8px;
+}
+
+p {
+    padding: 0px 0px 0px 8px;
+}

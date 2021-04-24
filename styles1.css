@@ -1,0 +1,24 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif
+  text-align: left;
+  color: #56165c;
+}
+
+.inputClass {
+  border: 8px inset #2d1953;
+  width: 15%;
+  margin: 2px;
+  height: 22px;
+}
+
+.buttonClass {
+  background-color: rgb(149, 140, 156);
+  border: 2px solid rgb(7, 2, 2);
+  color: rgb(7, 2, 2);
+}
+
+label {
+  color: rgb(72, 72, 146);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 0px 0px 0px 4px;
+}
